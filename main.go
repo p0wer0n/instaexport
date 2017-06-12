@@ -19,10 +19,10 @@ import (
 )
 
 const (
-	client_id     = "222c75b62b6c4a0b8b789cbaebf75375"
-	client_secret = "589eaa6bc7704eb7add52fcd229c463e"
+	client_id     = "7043c6dc8a5d438fb58fdb7b1a85bae8"
+	client_secret = "8fc807927de8414a871e52d76dc2c03e"
 
-	redirect_url  = "http://instaexport.com/callback"
+	redirect_url  = "http://bestkorea.yeet.net/callback"
 	download_path = "/tmp/instaexport/"
 
 	access_token_url = "https://api.instagram.com/oauth/access_token"
